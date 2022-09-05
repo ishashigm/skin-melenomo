@@ -1,1 +1,1 @@
-# skin-melenomo
+# skin-melanomo classification using CNN
